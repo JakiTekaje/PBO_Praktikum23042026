@@ -8,7 +8,7 @@ public class MainPoint {
 
     public static void main(String[] args) {
         Point p1 = new Point();
-        Point p1 = new Point(3,4);
+        Point p2 = new Point(3,4);
         
         p1.setX(1);
         p2.setY(2);
